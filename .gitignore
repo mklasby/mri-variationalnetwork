@@ -3,4 +3,6 @@
 *.json
 logs/
 result*
+data/*
+!data/.gitkeep
 __pycache__
